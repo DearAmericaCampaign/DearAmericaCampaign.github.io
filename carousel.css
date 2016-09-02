@@ -19,7 +19,12 @@ font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
  overflow: hidden;   
     
 }
-
+.circle{
+    
+    border-radius: 50%;
+    
+    
+}
 .italic{
 
 font-style:italic;
