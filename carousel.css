@@ -14,12 +14,20 @@ font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 
 }
+.backgrnd{
+    
+ overflow: hidden;   
+    
+}
 
 .italic{
 
 font-style:italic;
 }
-
+.bottommargin{
+    margin-bottom: 100px;
+    
+}
 .blank{
 
 font-size:100px;
