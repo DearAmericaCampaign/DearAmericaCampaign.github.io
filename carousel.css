@@ -14,9 +14,12 @@ font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 
 
 }
-.backgrnd{
+.backgrnd1{
     
- overflow: hidden;   
+ overflow: hidden;  
+    background-image:url(  Entre.jpeg);
+    width:100%;
+    height:100%;
     
 }
 .circle{
@@ -127,7 +130,23 @@ height:0px;
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-color: #777;
+background-size:cover;
+}
+
+.entre{
+    
+    background-image: url(Entre.jpeg);}
+
+
+.trump{
+    background-image:url(trump.jpg);
+    
+    
+}
+
+.letters{
+    
+    background-image: url(letter.jpg);
 }
 .carousel-inner > .item > img {
   position: absolute;
@@ -155,11 +174,6 @@ height:0px;
   margin-left: 10px;
 }
 
-
-.bottommargin{
-
-font-weight: 100;
-}
 
 /* Featurettes
 ------------------------- */
